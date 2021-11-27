@@ -8,7 +8,7 @@
 
 ## 📢 Visite o site
 
-[Animation-button-switch](https://lobinhodev.github.io/Animation-error-404/).
+[Animation-error-404](https://lobinhodev.github.io/Animation-error-404/).
 
 ## 🧠 Tecnologias
 
